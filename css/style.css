@@ -1,0 +1,64 @@
+@font-face {
+	font-family: "Arcade";
+	src: url('../fonts/arcadeclassic.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arcade', 'sans-serif';
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.background-image {
+    background-size: cover;
+    background-position: 10% 20%;
+    height: 150px;
+    width: 550px;
+    border-radius: 3px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+    transform: scale(1.2);
+}
+
+.relogio {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+    width: 550px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 3px;
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 0.5);
+}
+
+.relogio div {
+    height: 170px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    background: rgba(5 ,5 , 5, 0.9);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.7);
+    border-radius: 7px;
+    letter-spacing: 3px;
+}
+
+.relogio span {
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.relogio .tempo {
+    font-size: 15px;
+}
