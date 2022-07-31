@@ -1,4 +1,4 @@
-Link da aplicação online: https://filipelimavaz-relogiodigital.netlify.app/
+<b>Link da aplicação online:</b> <a>https://filipelimavaz-relogiodigital.netlify.app/</a>
 
 Obrigado a todos os artistas que contribuiram nesse meu projeto de estudos !
 
