@@ -29,7 +29,7 @@ Projeto de um relógio digital em que se influencia no background dependente do 
 > <q>Obrigado a todos os artistas que contribuiram nesse meu projeto de estudos > </q>
 
 </br>
-<a href="https://github.com/IsaacGSS/relogio_digital/md/linkEAutoria" ><b>Link e Autoria.md<b></a>
+<a href="https://github.com/IsaacGSS/relogio_digital/blob/main/md/linkEAutoria.md" ><b>Link e Autoria.md<b></a>
 
 </div>
 
