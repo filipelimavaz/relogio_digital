@@ -1,16 +1,21 @@
 # **⌚ Relogio Digital**
 
+Colaboração em desenvolvimento parceiro.
+
+</br>
+<div align="center" >
+end
+</div>
+
+</br>
+
 Projeto de um relógio digital em que se influencia no background dependente do horário atual.
 
 </br>
 
 ## 📜 Status
-> Status: in development
+> Status: in development aid
 
-## 👨‍💻 Technology
-> <img src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-javascript.svg" title="Javascript" style="width: 50px;" >
-> <img src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-css3.svg" title="CSS-3" style="width: 50px;" >
-> <img src="https://22fde275-a0f7-493a-9331-c31456c551ee.id.repl.co/img/icons8-html-5.svg" title="HTML-5" style="width: 50px;" >
 
 ## 💻 Funcionalidades
 
@@ -53,23 +58,21 @@ Projeto de um relógio digital em que se influencia no background dependente do 
 ## **img**
 
  ### <a href="https://weheartit.com/entry/182008200">**Morning**: 
- <br>
- <img height="150" src="https://www.animaatjes.nl/plaatjes/k/kawaii-scene/animaatjes-kawaii-scene-1961178.gif?ref=weheartit"> </a>
+
+ <img height="150" src="js/img/midday.gif"> </a>
 
 </br>
 
  ### <a href="https://tenor.com/view/trees-windy-cat-relax-nature-gif-15821326">**Day**:
- <br>
- <img height="150" src="https://c.tenor.com/xiWD7lkCTIcAAAAd/trees-windy.gif"> </a>
+
+ <img height="150" src="js/img/day.gif"> </a>
 
 </br>
 
  ### <a href="https://br.pinterest.com/pin/74802043802214365/">**Sunset**: 
- <br>
- <img height="150" src="https://i.pinimg.com/originals/9b/0b/c6/9b0bc63a987fbaa2beaa44ba94e105d7.gif"> </a>
+ <img height="150" src="js/img/sunset.gif"> </a>
 
 </br>
 
- ### <a href="https://br.pinterest.com/pin/633459503841300051/">**Night image**:
- <br>
- <img height="150" src="https://i.pinimg.com/originals/00/43/04/0043044fd8e3c55c584ddaf0c9c134e2.gif"> </a>
+ ### <a href="https://br.pinterest.com/pin/633459503841300051/">**Night**:
+ <img height="150" src="js/img/night.gif"> </a>
