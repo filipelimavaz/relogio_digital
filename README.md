@@ -1,14 +1,11 @@
 # **⌚ Relogio Digital**
-
+<div align="center" >
 Colaboração em desenvolvimento parceiro.
 
-<div align="center" >
 end
-</div>
-
 
 Projeto de um relógio digital em que se influencia no background dependente do horário atual.
-
+</div>
 </br>
 
 ## 📜 Status
