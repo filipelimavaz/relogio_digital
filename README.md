@@ -26,8 +26,6 @@ Projeto de um relógio digital em que se influencia no background dependente do 
 > <img src="assets/md/gif.gif"> -->
 
 <br>
-<br>
-<br>
 
   👇
 
@@ -46,28 +44,8 @@ Projeto de um relógio digital em que se influencia no background dependente do 
 > </br>
 > <q>Obrigado a todos os artistas que contribuiram nesse meu projeto de estudos > </q>
 
+</br>
+<a href="https://github.com/IsaacGSS/relogio_digital/md/linkEAutoria" ><b>Link e Autoria.md<b></a>
+
 </div>
 
-</br>
-
-## **img**
-
- ### <a href="https://weheartit.com/entry/182008200">**Morning**: 
-
- <img height="150" src="js/img/midday.gif"> </a>
-
-</br>
-
- ### <a href="https://tenor.com/view/trees-windy-cat-relax-nature-gif-15821326">**Day**:
-
- <img height="150" src="js/img/day.gif"> </a>
-
-</br>
-
- ### <a href="https://br.pinterest.com/pin/74802043802214365/">**Sunset**: 
- <img height="150" src="js/img/sunset.gif"> </a>
-
-</br>
-
- ### <a href="https://br.pinterest.com/pin/633459503841300051/">**Night**:
- <img height="150" src="js/img/night.gif"> </a>
