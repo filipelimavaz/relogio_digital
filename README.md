@@ -2,8 +2,6 @@
 <div align="center" >
 Colaboração em desenvolvimento parceiro.
 
-end
-
 Projeto de um relógio digital em que se influencia no background dependente do horário atual.
 </div>
 </br>
@@ -16,20 +14,6 @@ Projeto de um relógio digital em que se influencia no background dependente do 
 
 > * Visualização nas horas, minutos e segundos
 > * background modular dependente das horas atual
-
-<!-- ## 👀 Preview
- 
-> <img src="assets/md/mobile.png" title="Projeto Gradiente [Mobile]" style="width: 19%;">
-> <img src="assets/md/Captura%20da%20Web_18-7-2022_105618_isaacgss.github.io.jpeg" title="Preview do projeto Gradiente" style="width: 77%;">
-> 
-> ### Gif
-> <img src="assets/md/gif.gif"> -->
-
-<br>
-
-  👇
-
-<br>
 
 
 ###  **🔗 Links e autorias**
@@ -49,3 +33,12 @@ Projeto de um relógio digital em que se influencia no background dependente do 
 
 </div>
 
+## 👀 Preview
+ 
+> <img src="md/img/day.jpeg" title="Projeto Gradiente [Mobile]" style="width: 48%;">
+> <img src="md/img/morning.jpeg" title="Projeto Gradiente [Mobile]" style="width: 51%;">
+> <img src="md/img/sunset.jpeg" title="Projeto Gradiente [Mobile]" style="width: 48%;">
+> <img src="md/img/night.jpeg" title="Projeto Gradiente [Mobile]" style="width: 51%;">
+> 
+> ### Gif
+> <img src="md/vid/2022-08-02-16-05-59.gif">
