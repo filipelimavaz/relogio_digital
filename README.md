@@ -2,12 +2,10 @@
 
 Colaboração em desenvolvimento parceiro.
 
-</br>
 <div align="center" >
 end
 </div>
 
-</br>
 
 Projeto de um relógio digital em que se influencia no background dependente do horário atual.
 
