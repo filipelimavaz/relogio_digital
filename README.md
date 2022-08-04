@@ -14,7 +14,7 @@ Projeto de um relógio digital em que se influencia no background dependente do 
 
 > * Visualização nas horas, minutos e segundos
 > * background modular dependente das horas atual
-
+> * Responsividade 📲
 
 ###  **🔗 Links e autorias**
 
