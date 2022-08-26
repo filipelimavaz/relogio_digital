@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "Arcade";
+	src: url('../fonts/arcadeclassic.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arcade', 'sans-serif';
+    box-sizing: border-box;
+}
