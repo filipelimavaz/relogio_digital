@@ -1,0 +1,16 @@
+@import 'sass/root';
+
+body {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  padding: 2rem;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: linear-gradient(120deg, #ffe53bd8, #ff2525da);
+}
+
+@import 'sass/img';
+@import 'sass/relogio';
+@import 'sass/mobile';

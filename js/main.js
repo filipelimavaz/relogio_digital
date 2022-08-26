@@ -24,16 +24,16 @@ const relogio = setInterval(function time() {
 
 function periodoDoDia(hora) {
     if(hora >= 6 && hora < 12){
-        document.querySelector('.background-image').style.backgroundImage = "url('js/img/morning.gif')";
+        document.querySelector('.background-image').style.backgroundImage = "url('../img/morning.gif')";
         document.querySelector('.body').style.background = "linear-gradient(120deg, #304878, #c0d8d8)";
     } else if(hora >= 12 && hora < 16) {
-        document.querySelector('.background-image').style.backgroundImage = "url('js/img/day.gif')";
+        document.querySelector('.background-image').style.backgroundImage = "url('../img/day.gif')";
         document.querySelector('.body').style.background = "linear-gradient(120deg, #ffffff, #E8AA42)";
     } else if(hora >= 16 && hora <= 17){
-        document.querySelector('.background-image').style.backgroundImage = "url('js/img/sunset.gif')";
+        document.querySelector('.background-image').style.backgroundImage = "url('../img/sunset.gif')";
         document.querySelector('.body').style.background = "linear-gradient(120deg, #ffe53bd8, #ff2525da)";
     } else {
-        document.querySelector('.background-image').style.backgroundImage = "url('js/img/night.gif')";
+        document.querySelector('.background-image').style.backgroundImage = "url('../img/night.gif')";
         document.querySelector('.body').style.background = "linear-gradient(120deg, #000000, #304878)";
 
     } 

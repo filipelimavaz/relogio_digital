@@ -1,0 +1,22 @@
+@media screen and (max-width: 900px) {
+  .background-image {
+      position: absolute;
+      z-index: -1;
+
+      width: 70%;
+      height: 70%;    
+
+      background-size: cover;
+      background-position: 10% 20%;
+  }
+
+  .relogio {
+    height: 80vh;
+    width: 45vw;
+
+    div {
+      height: 20vh;
+      margin: 5%;
+    }
+  }
+}
